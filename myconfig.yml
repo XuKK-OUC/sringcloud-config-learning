@@ -7,7 +7,7 @@ spring:
 spring:
   profiles: dev
   application: 
-    name: microservicecloud-config-client-厉害了
+    name: microservicecloud-config-client-秀
 ---
 
 spring:
